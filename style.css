@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color:white;
+    font-family: "Libre Baskerville";
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+    color:white;
+    font-family: "Libre Baskerville";
+    text-align: center;
+    font-size: 129%;
+}
+
+.image-daenerys{
+    border: 5px solid white;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 20px;
+}
